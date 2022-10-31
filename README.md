@@ -10,10 +10,13 @@ Phala Network is a Kusama/Polakdot parachain focusing on trustless cloud computi
 - connect to Key-Value DB: you can connect to storages like S3, 4EVERLAND, IPFS, Arweave to store information off-chain through HTTPS Requests
 
 ## Dates
-- Start Hacking: 2022-11-10
+- Start Hacking: 2022-11-01
 - Duration: 17 days
-- End of Hackathon: 2022-22-17
+- End of Hackathon: 2022-11-18
 - Announcement of Winners: YYYY-MM-DD
+
+## Submissions
+- TBD
 
 ## Developer Resources
 - [Phala Hackathon Submission Repo](https://github.com/Phala-Network/Unblock-Hackathon-2022/)
@@ -32,7 +35,7 @@ Phala Network is a Kusama/Polakdot parachain focusing on trustless cloud computi
 ### Challenge #1
 | Challenge | Winners  |
 | --------- | -------- |
-| 100 PHA   | First 50 |
+| 500 PHA   | First 50 |
 
 Complete the [Oracle Workshop](https://github.com/Phala-Network/oracle-workshop) steps for the Beginner and Advanced Challenge. Phat Contracts are different than the typical EVM Smart Contract. In contrast, Phat Contracts are written in the Rust-based eDSL [ink!](https://paritytech.github.io/ink/) and compile down to WASM. Walking through this workshop and getting some hands on experience here will show you the basics of building an Oracle with cross-contract calls that can be valuable for entering into Challenge #2.
 
